@@ -15,3 +15,8 @@ Lots of text for the new section.
 
 * Open Browser
 * Start Youtube
+
+## One More Section
+
+* Step 1: Start the Terminal
+* Step 2: Check if KB works
