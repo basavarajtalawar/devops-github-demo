@@ -10,3 +10,8 @@ More description about this repo.
 
 Text for the new section. Text for the new section. Text for the new section. 
 Lots of text for the new section.
+
+## Local Development
+
+* Open Browser
+* Start Youtube
