@@ -10,3 +10,8 @@ More description about this repo.
 
 Text for the new section. Text for the new section. Text for the new section. 
 Lots of text for the new section.
+
+## One More Section
+
+* Step 1: Start the Terminal
+* Step 2: Check if KB works
