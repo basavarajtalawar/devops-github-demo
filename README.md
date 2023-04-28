@@ -20,3 +20,7 @@ Lots of text for the new section.
 
 * Step 1: Start the Terminal
 * Step 2: Check if KB works
+
+## Feature Addition Instructions
+* New feature instruction Step 1
+* Step 2 - New feature instruction Step 2
